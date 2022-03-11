@@ -9,3 +9,7 @@ h1{
     box-sizing: border-box;
     background: lightseagreen;
 }
+
+article{
+    text-align: left;
+}
