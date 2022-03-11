@@ -1,2 +1,4 @@
 Agregando contenido al archivo de texto plano
 Mi nombre es Antony y tengo 24 años
+Estoy estudiando programación
+Y ahora estoy viendo GIT
