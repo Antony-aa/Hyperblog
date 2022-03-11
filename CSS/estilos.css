@@ -5,9 +5,15 @@ body{
     color: rgb(40, 66, 66);
 }
 
-h1{
+#container{
+    display: inline-block;
+    justify-content: center;
+    width: 60%;
+    padding: 20px 0;
     box-sizing: border-box;
     background: lightseagreen;
+    border: 3px solid steelblue;
+    border-radius: 50%;
 }
 
 article{
