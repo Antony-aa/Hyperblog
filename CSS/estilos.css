@@ -18,3 +18,7 @@ body{
 article{
     text-align: left;
 }
+
+.lista{
+    text-align: start;
+}
