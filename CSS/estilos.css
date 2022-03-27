@@ -1,13 +1,17 @@
 body{
     background: #ddd;
-    text-align: center;
     font-family: sans-serif;
     color: rgb(40, 66, 66);
 }
 
 #container{
+    
+    text-align: center;
+   
+}
+
+#post{
     display: inline-block;
-    justify-content: center;
     width: 60%;
     padding: 20px 0;
     box-sizing: border-box;
@@ -15,10 +19,16 @@ body{
     border: 3px solid steelblue;
 }
 
-article{
+.article{
     text-align: left;
 }
 
-.lista{
-    text-align: start;
+#listaDeElementos{
+    display: inline-block;
+    
+}
+
+#listaPrincipal{
+    display: inline-block;
+    margin: 0 70px
 }
